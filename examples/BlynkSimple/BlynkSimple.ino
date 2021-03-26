@@ -1,4 +1,6 @@
 
+//Blynk Clone QR: https://github.com/iamdev/ESP8266-STM32IO-4CH-LCD/blob/main/blynk_clone_1877332670.png
+
 #define BLYNK_MSG_LIMIT 250
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
